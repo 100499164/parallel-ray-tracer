@@ -1,0 +1,3 @@
+ERROR: Material with name [mat1] already exists
+Line: 'metal: mat1 0 0.8 0 2.0'
+Error: Failed to parse scene file

@@ -1,0 +1,5 @@
+ERROR: Extra data after configuration value for key: [matte:]
+Extra: '2.0'
+Line: 'matte:  mat1 0 0.8 0.8 2.0
+'
+Error: Failed to parse scene file

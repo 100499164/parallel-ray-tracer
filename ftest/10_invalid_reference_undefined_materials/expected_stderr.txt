@@ -1,0 +1,3 @@
+ERROR: Material not found: [mat2]
+Line: 'sphere: 0 0 0 0.65 mat2'
+Error: Failed to parse scene file

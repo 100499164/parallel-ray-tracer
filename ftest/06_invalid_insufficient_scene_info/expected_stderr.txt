@@ -1,0 +1,4 @@
+ERROR: Invalid matte material parameters
+Line: 'matte:  mat1 0 0.8
+'
+Error: Failed to parse scene file

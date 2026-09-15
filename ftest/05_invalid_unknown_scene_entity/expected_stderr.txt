@@ -1,0 +1,4 @@
+ERROR: Unknown scene entity: granito
+Line: 'granito: mat1 0 0.8 0.8
+'
+Error: Failed to parse scene file

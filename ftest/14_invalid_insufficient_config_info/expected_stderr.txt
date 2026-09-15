@@ -1,0 +1,2 @@
+Error: Invalid value for key: [camera_position:]
+Line: "camera_position: 0 0"

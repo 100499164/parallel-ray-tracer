@@ -1,0 +1,2 @@
+Error: Extra data after configuration value for key: [camera_north:]
+Extra: "0 1 0 23"
