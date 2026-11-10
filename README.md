@@ -461,6 +461,12 @@ This involved analyzing performance-critical execution paths, removing unnecessa
 
 The optimization process also helped identify which parts of the renderer dominated execution time, providing the basis for the later parallelization strategy.
 
+### BVH acceleration
+
+After the sequential phase, code-level optimizations were no longer producing significant gains, and the cost of intersection testing grew with the number of objects in the scene.
+
+I researched acceleration structures and proposed introducing a Bounding Volume Hierarchy. I designed its integration with the renderer and implemented the hierarchy, while a teammate implemented the bounding volumes.
+
 ### Parallel rendering infrastructure
 
 For the parallel renderer, I worked on several central concurrency and infrastructure components:
